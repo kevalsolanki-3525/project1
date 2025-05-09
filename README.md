@@ -1,3 +1,3 @@
 # project1
 This is my first Git Repository<br>
-Author -  Keval Solanki
+Author -  Keval (Apna College)
